@@ -1,5 +1,5 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/631cf1106153511.5f8936068499e.gif)
-<h1 align="center">Hi 👋, I'm Reno Vardhan</h1>
+<h1 align="center">Hi 👋, I'm Reno</h1>
 <h3 align="center">A passionate Student who learns and explores new tech</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
