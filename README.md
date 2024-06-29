@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying **CSE at SRMIST**
 
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning **Python Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rzn0v](https://github.com/rzn0v)
 
