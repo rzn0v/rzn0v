@@ -13,7 +13,7 @@
 
 - 📫 Reach me **rr1148@srmist.edu.in**
 
-- ⚡ Fun fact **I am fun to get along with...**
+- ⚡ I'm determined to learn something new everyday
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
