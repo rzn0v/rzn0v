@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzn0v&label=Profile%20views&color=0e75b6&style=flat" alt="rzn0v" /> </p>
 
-- 🔭 I’m currently studying **CSE at SRMIST**
+- 🔭 I’m currently pursuing **CSE at SRMIST**
 
 - 🌱 I’m currently learning **Python Dev**
 
