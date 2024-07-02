@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rzn0v](https://github.com/rzn0v)
 
-- 📫 How to reach me **rr1148@srmist.edu.in**
+- 📫 Reach me **rr1148@srmist.edu.in**
 
 - ⚡ Fun fact **I am fun to get along with...**
 
