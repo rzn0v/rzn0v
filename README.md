@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzn0v&label=Profile%20views&color=0e75b6&style=flat" alt="rzn0v" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rzn0v" alt="rzn0v" /></a> </p>
-
 - 🔭 I’m currently pursuing [CSE](SRMIST)
 
 - 🌱 I’m currently learning **Web Development**
@@ -32,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rzn0v&show_icons=true&locale=en" alt="rzn0v" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rzn0v&" alt="rzn0v" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rzn0v" alt="rzn0v" /></a> </p>
