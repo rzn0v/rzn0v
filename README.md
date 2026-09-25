@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzn0v&label=Profile%20views&color=0e75b6&style=flat" alt="rzn0v" /> </p>
 
-- 🔭 I’m currently pursuing [CSE](SRMIST)
+- 🔭 CSE graduate(SRMIST)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rzn0v](https://github.com/rzn0v)
 
-- 📫 How to reach me **rr1148@srmist.edu.in**
+- 📫 How to reach me **renovardhan@gmail.com**
 
 - ⚡ Fun fact **I'm determined to learn something new everyday**
 
